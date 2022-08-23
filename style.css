@@ -38,9 +38,10 @@ h1#nomedosite{
 }
 
 header{
+    width: 100%;
     background-image: linear-gradient(to bottom, #24A560 20%, #000000ed); 
     padding: 9px;
-    margin: -9px;
+    margin: auto;
     box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.341);
 }
 
